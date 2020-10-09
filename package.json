@@ -1,0 +1,14 @@
+{
+  "name": "among-us-muter",
+  "version": "1.0.0",
+  "description": "discord bot that mutes players in among us",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "eugene",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
